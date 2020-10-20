@@ -1,0 +1,21 @@
+{
+  "name": "nodebb-plugin-widget-forum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bandana sahu <bandana.tarento@gmail.com> (http://www.magicmikemovie.com)",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.20",
+    "uuid": "^8.3.0",
+    "winston": "^3.3.3"
+  }
+}

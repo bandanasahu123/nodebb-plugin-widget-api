@@ -1,1 +1,1 @@
-# nodebb-plugin-widget-api
+# nodebb-create-forum-api
